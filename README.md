@@ -2,18 +2,18 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
+# Predicting Fibonacci's Sequence using a KNN Model
+## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `Illustrious Morgan State University`
 
 <!--
 List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [member1](https://github.com/cbaker6) - `Takiya Eastmond`
+- [member2](https://github.com/cbaker6) - `Donald Davis` 
+- [member3](https://github.com/deandre202) - `Deandre Charity` 
+- [member4](https://github.com/cbaker6) - `Xavier Johnson`
 
 ## Description
 <!--

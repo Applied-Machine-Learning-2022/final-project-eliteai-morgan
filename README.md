@@ -12,7 +12,7 @@ link to each members respective GitHub profile
 Developed by: 
 - [member1](https://github.com/cbaker6) - `Takiya Eastmond`
 - [member2](https://github.com/cbaker6) - `Donald Davis` 
-- [member3](https://github.com/cbaker6) - `Deandre Charity` 
+- [member3](https://github.com/deandre202) - `Deandre Charity` 
 - [member4](https://github.com/cbaker6) - `Xavier Johnson`
 
 ## Description

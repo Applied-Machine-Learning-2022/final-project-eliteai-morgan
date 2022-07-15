@@ -2,7 +2,7 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
+# Predicting Fibonacci's Sequence using a KNN Model
 ## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `Illustrious Morgan State University`
 
 <!--

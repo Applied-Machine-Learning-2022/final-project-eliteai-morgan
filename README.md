@@ -17,7 +17,7 @@ Developed by:
 
 ## Description
 <!--
-Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
+Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations. 
 -->
 
 ## Usage instructions

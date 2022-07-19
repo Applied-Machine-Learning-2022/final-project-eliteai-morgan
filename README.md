@@ -27,7 +27,7 @@ The mathmatical formula for the Fibonacci sequence is Xn= Xn-1+Xn-2
 ## What is valuable about this structure
 
 ## Our Goals for this project
-
+Our goals for this project is to build the most accurate and effective recurrent neural network with the intent to teach the model the fibonacci sequence
 ## Models
 
 ## Refrences

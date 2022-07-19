@@ -33,7 +33,7 @@ Our goals for this project is to build the most accurate and effective recurrent
 
 ## Refrences
 “The Fibonacci Sequence.” Imagination Station, www.imaginationstationtoledo.org/about/blog/the-fibonacci-sequence. Accessed 15 July 2022.
-![image](https://user-images.githubusercontent.com/106936453/179819999-f3f4e900-c0e6-4151-ab7c-12eba8038cc1.png)
+
 
 Velasquez, Robert. “What Is The Fibonacci Sequence? And How It Applies To Agile Development.” eLearning Industry, 12 May 2021, elearningindustry.com/fibonacci-sequence-what-is-and-how-applies-agile-development.
 ![image](https://user-images.githubusercontent.com/106936453/179820064-6e6ae954-4c3c-429a-ab8d-9617206d4435.png)

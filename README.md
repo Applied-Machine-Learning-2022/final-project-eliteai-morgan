@@ -32,6 +32,9 @@ Give details on how to install fork and install your project. You can get all of
 ## Questions
 Please feel free to contact
 Takiya Eastmond : taeas2@morgan.edu
+
 Donald Davis : dodav13@morgan.edu
+
 DeAndre Charity : decha11@morgan.edu
+
 Xavier Johnson : xajoh3@morgan.edu

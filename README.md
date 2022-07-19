@@ -21,7 +21,7 @@ The project goal is to use the the fibonnaci sequence in a reccurent neural netw
 -->
 ## Fibonacci's sequence
 The Fibonacci sequence is the series of numbers where each number is the sum of the two preceeding numbers, in his attempt to discover how many rabbits can be produced from a single pair of rabbits in one year under ideal conditions.
-![This is an image](file:///C:/Users/chari/Downloads/Fibonacci-Face.webp)
+![alt text](file:///C:/Users/chari/Downloads/Fibonacci-Face.webp)
 
 The mathmatical formula for the Fibonacci sequence is Xn= Xn-1+Xn-2
 

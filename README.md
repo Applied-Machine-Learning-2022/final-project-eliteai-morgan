@@ -36,7 +36,7 @@ Our goals for this project is to build the most accurate and effective recurrent
 
 
 Velasquez, Robert. “What Is The Fibonacci Sequence? And How It Applies To Agile Development.” eLearning Industry, 12 May 2021, elearningindustry.com/fibonacci-sequence-what-is-and-how-applies-agile-development.
-![image](https://user-images.githubusercontent.com/106936453/179820064-6e6ae954-4c3c-429a-ab8d-9617206d4435.png)
+
 
 
 ## Usage instructions

@@ -40,11 +40,6 @@ Velasquez, Robert. “What Is The Fibonacci Sequence? And How It Applies To Agil
 
 
 
-- [member1](https://github.com/cbaker6) - `Takiya Eastmond`
-- [member2](https://github.com/cbaker6) - `Donald Davis` 
-- [member3](https://github.com/deandre202) - `Deandre Charity` 
-- [member4](https://github.com/cbaker6) - `Xavier Johnson`
-
 
 
 #

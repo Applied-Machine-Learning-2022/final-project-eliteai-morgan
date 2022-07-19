@@ -44,7 +44,7 @@ Velasquez, Robert. “What Is The Fibonacci Sequence? And How It Applies To Agil
 
 
 #
-main
+
 ## Usage instructions
 <!--
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.

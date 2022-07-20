@@ -23,10 +23,13 @@ The project goal is to use the the fibonnaci sequence in a reccurent neural netw
 ## Fibonacci's sequence
 The Fibonacci sequence is the series of numbers where each number is the sum of the two preceeding numbers, in his attempt to discover how many rabbits can be produced from a single pair of rabbits in one year under ideal conditions.
 The mathmatical formula for the Fibonacci sequence is Xn= Xn-1+Xn-2
+
+
+
 ![Test image](/References/Fibonaccis_facial_sequence.jpg)
 
 
-The mathmatical formula for the Fibonacci sequence is Xn= Xn-1+Xn-2
+
 
 ## What is valuable about this structure
 The main thing that is valuable being able to take the recurrent neural network train it to understand a pattern and take that understanding to make accurate prediction

@@ -26,9 +26,10 @@ The mathmatical formula for the Fibonacci sequence is Xn= Xn-1+Xn-2
 
 
 
+![Test](/References/fibonacci_number_sequence.jpg)
 ![Test image](/References/Fibonaccis_facial_sequence.jpg)
 ![Test](/References/2560px-fibonacci-spirals.jpg)
-![Test](/References/fibonacci_number_sequence.jpg)
+
 
 
 

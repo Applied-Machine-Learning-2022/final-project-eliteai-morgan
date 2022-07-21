@@ -39,7 +39,7 @@ Fibonacci’s sequence is the series of numbers where each number is the sum of 
 The main thing that is valuable being able to take the recurrent neural network train it to understand a pattern and take that understanding to make accurate prediction
 
 ## Our Goals for this project
-Our goals for this project is to build the most accurate and effective recurrent neural network with the intent to teach the model the fibonacci sequence and construct a recurring neural network model to predict Fibonacci's sequence based on a predetermined sequence of data.
+Our goals for this project is to build the most accurate and effective recurrent neural network with the intent to teach the model the Fibonacci’s sequence and construct a recurring neural network model to predict Fibonacci's sequence based on a predetermined sequence of data.
 ## Models
 
 ## Refrences

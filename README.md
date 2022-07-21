@@ -42,7 +42,7 @@ The main thing that is valuable being able to take the recurrent neural network 
 Our goals for this project is to build the most accurate and effective recurrent neural network with the intent to teach the model the Fibonacci’s sequence and construct a recurring neural network model to predict Fibonacci's sequence based on a predetermined sequence of data.
 ## Models
 
-## Refrences
+## References
 “The Fibonacci Sequence.” Imagination Station, www.imaginationstationtoledo.org/about/blog/the-fibonacci-sequence. Accessed 15 July 2022.
 
 

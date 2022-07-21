@@ -25,7 +25,8 @@ Fibonacci’s sequence is the series of numbers where each number is the sum of 
 
 
 
-![Test](/References/fibonacci_number_sequence.jpg)
+<!--![Test](/References/fibonacci_number_sequence.jpg) -->
+<img src="/References/fibonacci_number_sequence.jpg" alt="fibo" width="400"/>
 
 
 

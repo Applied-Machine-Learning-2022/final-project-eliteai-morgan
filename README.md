@@ -58,12 +58,13 @@ Velasquez, Robert. “What Is The Fibonacci Sequence? And How It Applies To Agil
 <!--
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
 -->
-1. Build a model that will be able to train a sequence of numbers
-2. Test a sequence to see how accurate and efficient the model is
-3. Build another model that will be able to train a sequence of numbers
-4. Test a sequence to see how accurate and efficient the new model is
-5. Compare and contrast the two models and build a third model with different hyperperameters that we we received from thhe previous models
-6. Determine the most accurate
+1.	Build a model that will be able to train a sequence of numbers
+2.	Test a sequence to see how accurate and efficient the model is
+3.	Build another model that will be able to train a sequence of numbers
+4.	Test a sequence to see how accurate and efficient the new model is
+5.	Compare and contrast the two models and build a third model with different hyperparameters that we received from the previous models
+6.	Determine the most accurate
+
 
 ## Questions
 Please feel free to contact

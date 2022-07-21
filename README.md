@@ -10,7 +10,7 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-deandre202-patch-1
+
 - [Takiya Eastmond](https://github.com/cbaker6) - `Morgan State University`
 - [Donald Davis](https://github.com/cbaker6) - `Morgan State University` 
 - [DeAndre Charity](https://github.com/deandre202) - `Morgan State University` 

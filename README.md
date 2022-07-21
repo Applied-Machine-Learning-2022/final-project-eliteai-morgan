@@ -38,7 +38,7 @@ Fibonacci’s sequence is the series of numbers where each number is the sum of 
 ## What is valuable about this structure
 The main thing that is valuable being able to take the recurrent neural network train it to understand a pattern and take that understanding to make accurate prediction
 
-![Test](Triangle-Fibonacci.png)
+![Test](/References/Triangle-Fibonacci.png)
 
 ## Our Goals for this project
 Our goals for this project is to build the most accurate and effective recurrent neural network with the intent to teach the model the Fibonacci’s sequence and construct a recurring neural network model to predict Fibonacci's sequence based on a predetermined sequence of data.

@@ -45,12 +45,15 @@ The main thing that is valuable being able to take the recurrent neural network 
 ## Our Goals for this project
 Our goals for this project is to build the most accurate and effective recurrent neural network with the intent to teach the model the Fibonacci’s sequence and construct a recurring neural network model to predict Fibonacci's sequence based on a predetermined sequence of data.
 
-![Test image](/References/Fibonaccis_facial_sequence.jpg)
+<!--![Test image](/References/Fibonaccis_facial_sequence.jpg) -->
+<img src= "/References/Fibonaccis_facial_sequence.jpg" alt="fibo" width="325"/>
 
 ## Models
 Using a Recurrent neural network, we measure the accuracy of prediction of the next numbers of the Fibonacci’s sequence. We then build a different model by using more of a LSTM (Long short-term memory) with control over the learning rate and Decay rate. Then based on these two models we build off those with additional models that we tweak to test if we get closer and more accurate results.
 
-![Test](/References/2560px-fibonacci-spirals.jpg)
+<!--![Test](/References/2560px-fibonacci-spirals.jpg) -->
+<img src= "/References/2560px-fibonacci-spirals.jpg" alt="fibo" width="400"/>
+
 ## References
 “The Fibonacci Sequence.” Imagination Station, www.imaginationstationtoledo.org/about/blog/the-fibonacci-sequence. Accessed 15 July 2022.
 

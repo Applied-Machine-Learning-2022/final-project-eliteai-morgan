@@ -17,19 +17,11 @@ Developed by:
 - [Xavier Johnson](https://github.com/cbaker6) - `Morgan State University`
 
 ## Description
-
-  The project goal is to use Fibonacci’s sequence in a recurrent neural network to find the approximation of the following numbers in the sequence. We are using Fibonacci’s sequence in a recurrent neural network to find the most accurate representation of the data. The sequence is used as a mathematical metaphor to see the bias and fairness that is used today as well as how it impacts the day to day lives of humans. The tools that we use to accomplish this task is the golden rule. The golden rule is a quadratic formula that we’ve implemented to teach the network a pattern, in which it accomplishes a divider for fairness. We are also using linear regression as a tool that will give us an exact representation of where the data needs to be adjusted so that we have a clear understanding of where our recurrent neural network needs to be adjusted.
-<!--Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations. The project goal is to use the the fibonnaci sequence in a reccurent neural network to find the aproximation of the following numbers in the sequence. We are using the fibonnaci sequence in a recurrent neural network to find the most accurate representation of the data. The sequence is used as a mathmatical metaphor to see the bias and fairness that is used in todays times aswell as how it impacts peoples lives. The tools that we use to accomplish this task is the golden rule which is a quadratic formula that we implented to teach the network a pattern. In which it accomplises a divider for fairness. We are also using linear regression as a tool that will give us an exact reprosentation of where the data needs to be so we know where our recurrent nerual network needs to be...
--->
-## Fibonacci's sequence
-  Fibonacci’s sequence is the series of numbers where each number is the sum of the two preceding numbers, in his attempt to discover how many rabbits can be produced from a single pair of rabbits in one year under ideal conditions. The mathematical formula for Fibonacci’s sequence is Xn= Xn-1+Xn-2
-
 The project goal is to use Fibonnaci's sequence in a reccurent neural network to find the aproximation of the following numbers in the sequence. We are using the fibonnaci sequence in a recurrent neural network to find the most accurate representation of the data. The sequence is used as a mathmatical metaphor to see the bias and fairness that is used in todays times aswell as how it impacts peoples lives. The tools that we use to accomplish this task is the golden rule which is a quadratic formula that we implented to teach the network a pattern. In which it accomplises a divider for fairness. We are also using linear regression as a tool that will give us an exact reprosentation of where the data needs to be so we know where our recurrent nerual network needs to be.
 <!--Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations. The project goal is to use the the fibonnaci sequence in a reccurent neural network to find the aproximation of the following numbers in the sequence. We are using the fibonnaci sequence in a recurrent neural network to find the most accurate representation of the data. The sequence is used as a mathmatical metaphor to see the bias and fairness that is used in todays times aswell as how it impacts peoples lives. The tools that we use to accomplish this task is the golden rule which is a quadratic formula that we implented to teach the network a pattern. In which it accomplises a divider for fairness. We are also using linear regression as a tool that will give us an exact reprosentation of where the data needs to be so we know where our recurrent nerual network needs to be...
 -->
 ## Fibonacci's sequence
 Fibonacci’s sequence is the series of numbers where each number is the sum of the two preceding numbers, in his attempt to discover how many rabbits can be produced from a single pair of rabbits in one year under ideal conditions. The mathematical formula for Fibonacci’s sequence is Xn= Xn-1+Xn-2
-
 
 
 
@@ -44,16 +36,12 @@ Fibonacci’s sequence is the series of numbers where each number is the sum of 
 
 
 ## What is valuable about this structure
-  The main thing that is valuable being able to take the recurrent neural network train it to understand a pattern and take that understanding to make accurate prediction
-
-## Our Goals for this project
-  Our goals for this project is to build the most accurate and effective recurrent neural network with the intent to teach the model the Fibonacci’s sequence and construct a recurring neural network model to predict Fibonacci's sequence based on a predetermined sequence of data.
 The main thing that is valuable being able to take the recurrent neural network train it to understand a pattern and take that understanding to make accurate prediction
 
 ## Our Goals for this project
 Our goals for this project is to build the most accurate and effective recurrent neural network with the intent to teach the model the Fibonacci’s sequence and construct a recurring neural network model to predict Fibonacci's sequence based on a predetermined sequence of data.
 ## Models
-
+Using a Recurent neural network we measure the accuracy of prediction of the next numbers of the  Fibonacci’s sequence. We then build a diffrent model by  using more of a LSTM (Long short term memory) with control over the learning rate and Decay rate.Then,based on these two models we build off those with additional models that we tweak to test if we get closer and more accurate results.
 ## References
 “The Fibonacci Sequence.” Imagination Station, www.imaginationstationtoledo.org/about/blog/the-fibonacci-sequence. Accessed 15 July 2022.
 
